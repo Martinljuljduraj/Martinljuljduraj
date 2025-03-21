@@ -6,4 +6,6 @@
 Here are some ideas to get you started:
 
 Hello, World! I am a senior at Lehman College and am expected to graduate in the Fall 2025 semester. 
+
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js)
 -->
